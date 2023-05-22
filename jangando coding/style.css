@@ -1,0 +1,50 @@
+.navbar-brand{
+    color: blue;
+}
+
+.logo{
+    color: orange;
+}
+
+
+.btnPopup{
+    background: #ff9900bb;
+    padding: 1em 2em;
+    font-size: 14pt;
+    cursor: pointer;
+    }
+    
+    .overlay{
+        position: relative;
+        left: 0px;
+        top: 0px;
+        background-color: none;
+        width: 60%;
+        height: 60%;
+        display: none;
+    }
+    
+    .popup{
+        margin: 20% auto;
+        width: 70%;
+        background-color: #ff9305c9;
+        border-radius: 5px;
+        box-shadow: 5px 5px 0 #494b49c2;
+        padding: 1em;
+    }
+    
+    .btnClose{
+        float: right;
+        cursor: pointer;
+    }
+    
+    .envoyer{
+        padding: 10px  30px;
+        background-color: #003cff;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 3px 3px 0 #494b49c2;
+    }
+    
+    
